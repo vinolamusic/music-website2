@@ -12,6 +12,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Vino LaMusic"
 description:	       "Latin DJ & Producer"
+author:              "Silvino Jimenez"
+
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
